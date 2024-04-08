@@ -1,0 +1,17 @@
+/home/evgeny/Public/ProductsApi/CarsApiManagement.DataLayer/obj/Debug/netcoreapp3.1/CarsApiManagement.DataLayer.csproj.AssemblyReference.cache
+/home/evgeny/Public/ProductsApi/CarsApiManagement.DataLayer/obj/Debug/netcoreapp3.1/CarsApiManagement.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+/home/evgeny/Public/ProductsApi/CarsApiManagement.DataLayer/obj/Debug/netcoreapp3.1/CarsApiManagement.DataLayer.AssemblyInfoInputs.cache
+/home/evgeny/Public/ProductsApi/CarsApiManagement.DataLayer/obj/Debug/netcoreapp3.1/CarsApiManagement.DataLayer.AssemblyInfo.cs
+/home/evgeny/Public/ProductsApi/CarsApiManagement.DataLayer/obj/Debug/netcoreapp3.1/CarsApiManagement.DataLayer.csproj.CoreCompileInputs.cache
+/home/evgeny/Public/ProductsApi/CarsApiManagement.DataLayer/obj/Debug/netcoreapp3.1/CarsApiManagement.DataLayer.sourcelink.json
+/home/evgeny/Public/ProductsApi/CarsApiManagement.DataLayer/bin/Debug/netcoreapp3.1/CarsApiManagement.DataLayer.deps.json
+/home/evgeny/Public/ProductsApi/CarsApiManagement.DataLayer/bin/Debug/netcoreapp3.1/CarsApiManagement.DataLayer.runtimeconfig.json
+/home/evgeny/Public/ProductsApi/CarsApiManagement.DataLayer/bin/Debug/netcoreapp3.1/CarsApiManagement.DataLayer.runtimeconfig.dev.json
+/home/evgeny/Public/ProductsApi/CarsApiManagement.DataLayer/bin/Debug/netcoreapp3.1/CarsApiManagement.DataLayer.dll
+/home/evgeny/Public/ProductsApi/CarsApiManagement.DataLayer/bin/Debug/netcoreapp3.1/CarsApiManagement.DataLayer.pdb
+/home/evgeny/Public/ProductsApi/CarsApiManagement.DataLayer/bin/Debug/netcoreapp3.1/CarsApiManagement.Entities.dll
+/home/evgeny/Public/ProductsApi/CarsApiManagement.DataLayer/bin/Debug/netcoreapp3.1/CarsApiManagement.Entities.pdb
+/home/evgeny/Public/ProductsApi/CarsApiManagement.DataLayer/obj/Debug/netcoreapp3.1/CarsApiManagement.DataLayer.csproj.CopyComplete
+/home/evgeny/Public/ProductsApi/CarsApiManagement.DataLayer/obj/Debug/netcoreapp3.1/CarsApiManagement.DataLayer.dll
+/home/evgeny/Public/ProductsApi/CarsApiManagement.DataLayer/obj/Debug/netcoreapp3.1/CarsApiManagement.DataLayer.pdb
+/home/evgeny/Public/ProductsApi/CarsApiManagement.DataLayer/obj/Debug/netcoreapp3.1/CarsApiManagement.DataLayer.genruntimeconfig.cache

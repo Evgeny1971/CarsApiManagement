@@ -1,0 +1,6 @@
+/home/evgenyv/Public/CarsApi/CarsApiManagement.DataLayer/obj/Debug/netcoreapp8.0/CarsApiManagement.DataLayer.csproj.AssemblyReference.cache
+/home/evgenyv/Public/CarsApi/CarsApiManagement.DataLayer/obj/Debug/netcoreapp8.0/CarsApiManagement.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+/home/evgenyv/Public/CarsApi/CarsApiManagement.DataLayer/obj/Debug/netcoreapp8.0/CarsApiManagement.DataLayer.AssemblyInfoInputs.cache
+/home/evgenyv/Public/CarsApi/CarsApiManagement.DataLayer/obj/Debug/netcoreapp8.0/CarsApiManagement.DataLayer.AssemblyInfo.cs
+/home/evgenyv/Public/CarsApi/CarsApiManagement.DataLayer/obj/Debug/netcoreapp8.0/CarsApiManagement.DataLayer.csproj.CoreCompileInputs.cache
+/home/evgenyv/Public/CarsApi/CarsApiManagement.DataLayer/obj/Debug/netcoreapp8.0/CarsApiManagement.DataLayer.sourcelink.json

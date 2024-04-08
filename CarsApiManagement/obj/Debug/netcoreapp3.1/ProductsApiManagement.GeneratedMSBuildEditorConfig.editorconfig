@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = CarsApiManagement
+build_property.ProjectDir = /home/evgeny/Public/ProductsApi/CarsApiManagement/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

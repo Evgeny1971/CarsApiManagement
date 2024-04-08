@@ -1,0 +1,392 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/evgeny/Public/ProductsApi/CarsApiManagement/CarsApiManagement.csproj": {}
+  },
+  "projects": {
+    "/home/evgeny/Public/ProductsApi/CarsApiManagement.BusinessLayer/CarsApiManagement.BusinessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/evgeny/Public/ProductsApi/CarsApiManagement.BusinessLayer/CarsApiManagement.BusinessLayer.csproj",
+        "projectName": "CarsApiManagement.BusinessLayer",
+        "projectPath": "/home/evgeny/Public/ProductsApi/CarsApiManagement.BusinessLayer/CarsApiManagement.BusinessLayer.csproj",
+        "packagesPath": "/home/evgeny/.nuget/packages/",
+        "outputPath": "/home/evgeny/Public/ProductsApi/CarsApiManagement.BusinessLayer/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/evgeny/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/home/evgeny/Public/ProductsApi/CarsApiManagement.DataLayer/CarsApiManagement.DataLayer.csproj": {
+                "projectPath": "/home/evgeny/Public/ProductsApi/CarsApiManagement.DataLayer/CarsApiManagement.DataLayer.csproj"
+              },
+              "/home/evgeny/Public/ProductsApi/CarsApiManagement.Entities/CarsApiManagement.Entities.csproj": {
+                "projectPath": "/home/evgeny/Public/ProductsApi/CarsApiManagement.Entities/CarsApiManagement.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/evgeny/Public/ProductsApi/CarsApiManagement.DataLayer/CarsApiManagement.DataLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/evgeny/Public/ProductsApi/CarsApiManagement.DataLayer/CarsApiManagement.DataLayer.csproj",
+        "projectName": "CarsApiManagement.DataLayer",
+        "projectPath": "/home/evgeny/Public/ProductsApi/CarsApiManagement.DataLayer/CarsApiManagement.DataLayer.csproj",
+        "packagesPath": "/home/evgeny/.nuget/packages/",
+        "outputPath": "/home/evgeny/Public/ProductsApi/CarsApiManagement.DataLayer/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/evgeny/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/home/evgeny/Public/ProductsApi/CarsApiManagement.Entities/CarsApiManagement.Entities.csproj": {
+                "projectPath": "/home/evgeny/Public/ProductsApi/CarsApiManagement.Entities/CarsApiManagement.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/evgeny/Public/ProductsApi/CarsApiManagement.Entities/CarsApiManagement.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/evgeny/Public/ProductsApi/CarsApiManagement.Entities/CarsApiManagement.Entities.csproj",
+        "projectName": "CarsApiManagement.Entities",
+        "projectPath": "/home/evgeny/Public/ProductsApi/CarsApiManagement.Entities/CarsApiManagement.Entities.csproj",
+        "packagesPath": "/home/evgeny/.nuget/packages/",
+        "outputPath": "/home/evgeny/Public/ProductsApi/CarsApiManagement.Entities/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/evgeny/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/evgeny/Public/ProductsApi/CarsApiManagement/CarsApiManagement.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/evgeny/Public/ProductsApi/CarsApiManagement/CarsApiManagement.csproj",
+        "projectName": "CarsApiManagement",
+        "projectPath": "/home/evgeny/Public/ProductsApi/CarsApiManagement/CarsApiManagement.csproj",
+        "packagesPath": "/home/evgeny/.nuget/packages/",
+        "outputPath": "/home/evgeny/Public/ProductsApi/CarsApiManagement/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/evgeny/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/home/evgeny/Public/ProductsApi/CarsApiManagement.BusinessLayer/CarsApiManagement.BusinessLayer.csproj": {
+                "projectPath": "/home/evgeny/Public/ProductsApi/CarsApiManagement.BusinessLayer/CarsApiManagement.BusinessLayer.csproj"
+              },
+              "/home/evgeny/Public/ProductsApi/CarsApiManagement.DataLayer/CarsApiManagement.DataLayer.csproj": {
+                "projectPath": "/home/evgeny/Public/ProductsApi/CarsApiManagement.DataLayer/CarsApiManagement.DataLayer.csproj"
+              },
+              "/home/evgeny/Public/ProductsApi/CarsApiManagement.Entities/CarsApiManagement.Entities.csproj": {
+                "projectPath": "/home/evgeny/Public/ProductsApi/CarsApiManagement.Entities/CarsApiManagement.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[3.1.32, 3.1.32]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

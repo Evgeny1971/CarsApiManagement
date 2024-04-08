@@ -1,0 +1,15 @@
+/home/evgenyv/Public/CarsApi/CarsApiManagement.Entities/bin/Debug/netcoreapp8.0/CarsApiManagement.Entities.deps.json
+/home/evgenyv/Public/CarsApi/CarsApiManagement.Entities/bin/Debug/netcoreapp8.0/CarsApiManagement.Entities.runtimeconfig.json
+/home/evgenyv/Public/CarsApi/CarsApiManagement.Entities/bin/Debug/netcoreapp8.0/CarsApiManagement.Entities.dll
+/home/evgenyv/Public/CarsApi/CarsApiManagement.Entities/bin/Debug/netcoreapp8.0/CarsApiManagement.Entities.pdb
+/home/evgenyv/Public/CarsApi/CarsApiManagement.Entities/obj/Debug/netcoreapp8.0/CarsApiManagement.Entities.csproj.AssemblyReference.cache
+/home/evgenyv/Public/CarsApi/CarsApiManagement.Entities/obj/Debug/netcoreapp8.0/CarsApiManagement.Entities.GeneratedMSBuildEditorConfig.editorconfig
+/home/evgenyv/Public/CarsApi/CarsApiManagement.Entities/obj/Debug/netcoreapp8.0/CarsApiManagement.Entities.AssemblyInfoInputs.cache
+/home/evgenyv/Public/CarsApi/CarsApiManagement.Entities/obj/Debug/netcoreapp8.0/CarsApiManagement.Entities.AssemblyInfo.cs
+/home/evgenyv/Public/CarsApi/CarsApiManagement.Entities/obj/Debug/netcoreapp8.0/CarsApiManagement.Entities.csproj.CoreCompileInputs.cache
+/home/evgenyv/Public/CarsApi/CarsApiManagement.Entities/obj/Debug/netcoreapp8.0/CarsApiManagement.Entities.sourcelink.json
+/home/evgenyv/Public/CarsApi/CarsApiManagement.Entities/obj/Debug/netcoreapp8.0/CarsApiManagement.Entities.dll
+/home/evgenyv/Public/CarsApi/CarsApiManagement.Entities/obj/Debug/netcoreapp8.0/refint/CarsApiManagement.Entities.dll
+/home/evgenyv/Public/CarsApi/CarsApiManagement.Entities/obj/Debug/netcoreapp8.0/CarsApiManagement.Entities.pdb
+/home/evgenyv/Public/CarsApi/CarsApiManagement.Entities/obj/Debug/netcoreapp8.0/CarsApiManagement.Entities.genruntimeconfig.cache
+/home/evgenyv/Public/CarsApi/CarsApiManagement.Entities/obj/Debug/netcoreapp8.0/ref/CarsApiManagement.Entities.dll
